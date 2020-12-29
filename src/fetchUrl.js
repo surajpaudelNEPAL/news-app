@@ -1,4 +1,4 @@
-const api_Key="7cXTYDLIrpGraVSqlJa5BnXzl891EFJG";
+const api_Key="get your own app";
 const fetchUrls={
     topHeadlines:`/world.json?api-key=${api_Key}`,
     technology:`/technology.json?api-key=${api_Key}`,
